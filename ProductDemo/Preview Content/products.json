@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 137,
+      "title": "American Football",
+      "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+      "category": "sports-accessories",
+      "price": 19.99,
+      "discountPercentage": 10.28,
+      "rating": 3.78,
+      "stock": 48,
+      "tags": [
+        "sports equipment",
+        "american football"
+      ],
+      "sku": "QLDVAXMJ",
+      "weight": 9,
+      "dimensions": {
+        "width": 9.74,
+        "height": 23.16,
+        "depth": 26.86
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Jaxon Barnes",
+          "reviewerEmail": "jaxon.barnes@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Aurora Lawson",
+          "reviewerEmail": "aurora.lawson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Evan Reed",
+          "reviewerEmail": "evan.reed@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 23,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.625Z",
+        "updatedAt": "2024-05-23T08:56:21.625Z",
+        "barcode": "2510402973927",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/thumbnail.png"
+    },
+    {
+      "id": 138,
+      "title": "Baseball Ball",
+      "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+      "category": "sports-accessories",
+      "price": 8.99,
+      "discountPercentage": 13.72,
+      "rating": 4.76,
+      "stock": 71,
+      "tags": [
+        "sports equipment",
+        "baseball"
+      ],
+      "sku": "VXE0FZPJ",
+      "weight": 6,
+      "dimensions": {
+        "width": 21.26,
+        "height": 20.59,
+        "depth": 18.28
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Henry Adams",
+          "reviewerEmail": "henry.adams@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Zoe Bennett",
+          "reviewerEmail": "zoe.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Henry Turner",
+          "reviewerEmail": "henry.turner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 38,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.625Z",
+        "updatedAt": "2024-05-23T08:56:21.625Z",
+        "barcode": "2160728153953",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
+    },
+    {
+      "id": 139,
+      "title": "Baseball Glove",
+      "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+      "category": "sports-accessories",
+      "price": 24.99,
+      "discountPercentage": 16.27,
+      "rating": 2.72,
+      "stock": 43,
+      "tags": [
+        "sports equipment",
+        "baseball"
+      ],
+      "sku": "WOP4GLB6",
+      "weight": 7,
+      "dimensions": {
+        "width": 15.64,
+        "height": 18.72,
+        "depth": 26.09
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Julian James",
+          "reviewerEmail": "julian.james@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Samantha Martinez",
+          "reviewerEmail": "samantha.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Layla Sullivan",
+          "reviewerEmail": "layla.sullivan@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.625Z",
+        "updatedAt": "2024-05-23T08:56:21.625Z",
+        "barcode": "6055304153121",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/1.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/2.png",
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/thumbnail.png"
+    },
+    {
+      "id": 140,
+      "title": "Basketball",
+      "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+      "category": "sports-accessories",
+      "price": 14.99,
+      "discountPercentage": 18.05,
+      "rating": 4.15,
+      "stock": 100,
+      "tags": [
+        "sports equipment",
+        "basketball"
+      ],
+      "sku": "EMF68NH8",
+      "weight": 10,
+      "dimensions": {
+        "width": 15.68,
+        "height": 23.18,
+        "depth": 16.25
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Luna Russell",
+          "reviewerEmail": "luna.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Asher Scott",
+          "reviewerEmail": "asher.scott@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Max Russell",
+          "reviewerEmail": "max.russell@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.625Z",
+        "updatedAt": "2024-05-23T08:56:21.625Z",
+        "barcode": "0365979467747",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/thumbnail.png"
+    },
+    {
+      "id": 141,
+      "title": "Basketball Rim",
+      "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+      "category": "sports-accessories",
+      "price": 39.99,
+      "discountPercentage": 6.02,
+      "rating": 4.98,
+      "stock": 57,
+      "tags": [
+        "sports equipment",
+        "basketball"
+      ],
+      "sku": "ENEWIQSR",
+      "weight": 7,
+      "dimensions": {
+        "width": 12.95,
+        "height": 15.58,
+        "depth": 15.23
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Lily Lee",
+          "reviewerEmail": "lily.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Avery Carter",
+          "reviewerEmail": "avery.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Miles Stevenson",
+          "reviewerEmail": "miles.stevenson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 10,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.625Z",
+        "updatedAt": "2024-05-23T08:56:21.625Z",
+        "barcode": "6350072055940",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/thumbnail.png"
+    }
+  ],
+  "total": 17,
+  "skip": 0,
+  "limit": 5
+}
